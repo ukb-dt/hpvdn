@@ -113,27 +113,26 @@ Your mathematical metaphor in Section 2 is evocative, particularly the integral.
 
 You wrote:
 
-
 Here, \varepsilon_x t implies a linear accumulation of error/drift over time. This works perfectly for **aging** or **entropy** (a constant tax on existence).
 
 However, if we treat \varepsilon strictly as stochastic noise (variance), the integral of white noise is a **Wiener Process** (Brownian motion). In that case, the variance grows with t, but the *standard deviation* (the "spread" of where you might end up) grows with \sqrt{t}.
 
 **Why this matters for your philosophy:**
-If the term is \varepsilon t (Drift), we are doomed to degrade.
-If the term is Brownian (\int dW_t), we are **wandering**.
+If the term is $\varepsilon t$ (Drift), we are doomed to degrade.
+If the term is Brownian $\int dW_t$, we are **wandering**.
 
 Your interpretation ("Time doesn’t average noise away; it harvests it") actually supports a mix of both.
 
-1. **The Drift (\varepsilon t):** The accumulation of cellular damage/dissipation (Prigogine/Vogelstein).
-2. **The Path (\int E_x dt):** The "lived experience."
+1. **The Drift $\varepsilon t$:** The accumulation of cellular damage/dissipation (Prigogine/Vogelstein).
+2. **The Path $\int E_x dt$:** The "lived experience."
 
-I love the definition of **C_x** as "constitutive character." In differential equations, the constant of integration is determined by *initial conditions*. You are effectively saying: **We cannot choose our t (time/fate), but we supply the C_x (who we are when the clock starts).**
+I love the definition of **$C_x$** as "constitutive character." In differential equations, the constant of integration is determined by *initial conditions*. You are effectively saying: **We cannot choose our $t$ (time/fate), but we supply the $C_x$ (who we are when the clock starts).**
 
 ### 4. Technical Note (The Code)
 
-Your HTML snippet is correct for a Jekyll/GitHub Pages environment (assuming the `{% raw %}` tags are part of the Liquid template).
+Your HTML snippet is correct for a Jekyll/GitHub Pages environment (assuming the tags are part of the Liquid template).
 
-* **Recommendation:** If you are rendering this on a page with a dark background (common for developer blogs), ensure your MathJax configuration handles color correctly. You can add this to your `tex` configuration to ensure visibility if your CSS doesn't handle it:
+* **Recommendation:** If you are rendering this on a page with a dark background (common for developer blogs), ensure your MathJax configuration handles color correctly. You can add this to your configuration to ensure visibility if your CSS doesn't handle it:
 
 
 *(But generally, the default script you have is robust.)*
@@ -142,8 +141,6 @@ Your HTML snippet is correct for a Jekyll/GitHub Pages environment (assuming the
 
 "Cheerful Pessimism" is a strong cognitive stance. It acknowledges that the "House" (Entropy/Biology) always wins in the long run, but asserts that the "Player" (Consciousness) generates meaning by how they play the hand.
 
-**Next Step:**
-Are you planning to expand Section 2? The natural progression from the Integral (Accumulated History) is to talk about the **Boundary Conditions**. In your constellation, **Death** is the final boundary condition. Zosima treats death as a seed for others; Prigogine treats it as a return to equilibrium. Reconciling those two in the math would be the final seal on the argument.
 
 ---
 
