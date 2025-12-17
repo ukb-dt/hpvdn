@@ -1,4 +1,10 @@
-# GitHub Pages is live
 
-Bootstrap successful.
+```
+Heisenberg (Uncertsinty)       
+Prigogine (Dissipate)
+Vogelstein (Bad Luck)
+Dostoevsky (Zosima)
+Nietzsche (Ecce Homo)
+```
 
+[hpvdn](https://ukb-dt.github.io/randomness/)
