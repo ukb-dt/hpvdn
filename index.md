@@ -18,7 +18,7 @@
 {% endraw %}
 
 Heisenberg (Uncertsinty)          
-Prigogine (Dissipate)          
+Prigogine ([Dissipate](https://ukb-dt.github.io/nkonte-00/))          
 Vogelstein ([Bad Luck](https://ukb-dt.github.io/randomness/))        
 Dostoevsky (Zosima)        
 Nietzsche ([Ecce Homo](https://ukb-dt.github.io/ukhona/))
